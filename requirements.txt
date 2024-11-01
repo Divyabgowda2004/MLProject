@@ -5,5 +5,6 @@ sys
 logging
 os
 datetime
+matplotlib
 
 #-e . #automatically triggers setup.py
