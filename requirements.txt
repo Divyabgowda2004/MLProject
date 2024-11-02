@@ -1,10 +1,9 @@
 pandas
 numpy
 seaborn
-sys
-logging
-os
-datetime
 matplotlib
+scikit-learn
+catboost
+xgboost
 
 #-e . #automatically triggers setup.py
